@@ -1,0 +1,1121 @@
+.logo h1{
+    color: #FFB411;
+    font-size:30px;
+    font-family:"arial";   
+}
+
+body{
+    margin-top: 0px;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    padding: 0px 0px 0px 0px;
+    font-family:"arial";
+    position: fixed;
+    background-color: white;
+    z-index: 1;
+    width: 100%;
+    gap: 450px;
+    
+}
+
+
+
+.list ul {
+    display: flex;
+    flex-direction: row;
+    /* width: 450px; */
+    list-style: none;
+    font-size: 20px;
+    gap: 50px;
+}
+
+
+.middle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgba(150, 150, 150, 0.079);
+   
+   
+   
+}
+
+.middle1 {
+    padding-top: 150px;
+    margin-top:50px;
+}
+
+
+
+
+.h1 h1{
+   
+    color: #FFB411;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 66px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-family:"arial";
+   
+
+}
+
+.h2  h2{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    margin-bottom:0px;
+   margin-top: 0px;
+     font-family:"arial";
+     padding-top: 0px;
+
+
+}
+
+
+
+.button button {
+    height: 50px;
+    width: 120px;
+   background-color: #FFB411;
+    border-radius: 0.5rem;
+    color: white;
+    margin-top: 20px;
+    font-family:"arial";
+    font-size: 15px;
+    border:  #FFB411 ;
+
+
+}
+
+.A  {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgba(150, 150, 150, 0.079);
+    
+}
+.A img{
+    border-radius: 5px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 700px;
+    font-family:"arial";
+    margin-bottom: 100px;
+
+}
+
+.a1 h1 {
+    color: #FFB411;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top:0px;
+    margin-bottom: 0px;
+    font-family:"arial";
+
+}
+
+.a2 h2 {
+    color: black;
+    font-weight: bolder;
+   font-size: 35px;
+ margin-bottom: 0px;
+  
+    font-family:"arial";
+    margin-top: 20px;
+}
+
+.a3 h3{
+    color: rgb(56, 54, 54);
+   margin-top: 20px;
+    font-size: 19px;
+    margin-top: 20px;
+   margin-bottom: 0px;
+   
+    font-family:"arial";
+
+
+}
+.A {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+}
+.img {
+    margin-bottom: 50px;
+
+}
+
+.a4 button {
+    height: 50px;
+    width: 120px;
+    border: 0px;
+    border-radius:  0.5rem;
+    background-color: #FFB411;
+    color: white;
+    font-size: 15px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.menu {
+   background-color: rgba(150, 150, 150, 0.079);
+    padding-top: 20PX;
+
+}
+/* header h1{
+    font-size: 25px;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 70px;
+    margin-bottom: 30px;
+     font-family:"arial"; 
+     font-weight: bold;
+
+
+} */
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    font-size: 15px;
+      font-family:"arial"; 
+      
+
+}
+.main p{
+    color: grey;
+}
+.f2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center; 
+    margin-right:0px;
+    margin-left: 0px;
+    
+
+}
+.f2 h1{
+    font-size: 20px;
+    margin-left: 80px;
+    margin-right:60px;
+     font-family:"arial"; 
+}
+f2 h2{
+    font-size: 20px;
+     font-family:"arial"; 
+
+}
+
+
+.menu1 h1{
+    color: #FFB411;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   font-family:"arial";
+   
+}
+
+.menu2 h2{
+    font-size: 40px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family:"arial";
+
+}
+
+.images {
+     display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    background-color: rgba(150, 150, 150, 0.079);
+     height: 500px;
+     align-items: center;  
+     padding-bottom: 90px; 
+}
+.img1 {
+    box-shadow: 0px 0px 15px #D3D3D3;
+    border-radius: 5px;
+    text-align: center;
+    width: 300px;
+    height: 330px;
+    padding-top: 20px;  
+  
+}
+.img1 img{
+   border: 1px solid black;
+   border-radius: 0.5rem;
+}
+.img2 img{
+   border: 1px solid black;
+   border-radius: 0.5rem;
+}
+.img3 img{
+   border: 1px solid black;
+   border-radius: 0.5rem;
+}
+
+.img1 h1{
+    font-weight: 900px;
+    font-size: 25px;
+    margin: 2px 0px 2px 0px;
+}
+.img1 h2{
+    
+margin: 2px 0px 2px 0px;
+}
+.img1 h3{
+    
+margin: 2px 0px 2px 0px;
+}
+.i1{
+    display: flex;
+    justify-content: end;
+
+}
+.i1 i{
+   
+     background-color: #FFB411;
+     font-size: 20px;
+}
+.i11{
+    
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+      background-color: #FFB411;
+      border-radius: 8px;
+}
+
+
+.img2{
+    box-shadow: 0px 0px 15px #D3D3D3;
+    border-radius: 10px;
+    text-align: center;
+    width: 300px;
+    height: 330px;
+    padding-top: 20px;
+}
+.i3{
+ display: flex;
+ justify-content: end;
+}
+.i3 i{
+background-color: #FFB411;
+     font-size: 20px;
+}
+.i33{
+height: 30px;
+    width: 30px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+      background-color: #FFB411;
+      border-radius: 8px;
+}
+.img2 h1{
+   font-weight:
+   900px;
+    font-size: 25px;
+    margin: 2px 0px 2px 0px;
+}
+.img2 h2{
+margin: 2px 0px 2px 0px;
+}
+.img2 h3{
+    margin: 2px 0px 2px 0px;
+}
+
+
+.img3{
+  box-shadow: 0px 0px 15px #D3D3D3;
+    border-radius: 5px;
+    text-align: center;
+    width: 300px;
+    height: 330px;
+    padding-top: 20px;
+
+}
+.i5{
+    display: flex;
+    justify-content: end;
+}
+.i5 i{
+    background-color: #FFB411;
+     font-size: 20px;
+}
+.i55{
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+      background-color: #FFB411;
+      border-radius: 8px;
+}
+.img3 h1{
+ font-weight:
+   900px;
+    font-size: 25px;
+    margin: 2px 0px 2px 0px;
+}
+
+.img3 h2{
+margin: 2px 0px 2px 0px;
+}
+.img3 h3{
+margin: 2px 0px 2px 0px;
+}
+.U{
+    height: 12px;
+    background-color: rgb(180, 176, 176);
+    width: 400px;
+    border-radius: 0.5rem;
+   margin-top: 30px;
+}
+.T h1{
+    border-bottom:1px solid rgb(167, 165, 165) ;
+}
+.T h1{
+    font-size:30px;
+    color: grey;
+   
+}
+.r{
+    height:1px;
+    width: 400px;
+    background-color:rgb(180, 176, 176);
+     border-radius: 0.5rem;
+     margin-left: 200px;
+    align-items: start;
+    text-align: start;
+
+}
+header h1{
+    font-size: 69px;
+    color: #FFB411;
+    font-family:"arial"; 
+    margin-left: 200px;
+   
+
+}
+.r111 h1{
+    font-size: 70px;
+     font-family:"arial"; 
+     color: rgb(248, 94, 38);
+    margin-top: 0px;
+    border-bottom:1px solid rgb(167, 165, 165);
+    margin-bottom: 0px;
+
+}
+.n img{
+    border-radius: 200px; 
+}
+.q11{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.W{
+display: flex;
+flex-direction: column;
+justify-content: center;
+height: 2px;
+
+}
+
+.ppp{
+    display: flex;
+    flex-direction: row;
+    padding-top: 100px;
+}
+.w1{
+    background-color: #FFB411;
+    height: 2px;
+    width:200px;
+    border-radius: 0.5rem;
+    margin-top:37px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-right: 20px;
+
+}
+.w2 h1{
+    color: #FFB411;
+    font-size: 30px;
+     font-family:"arial"; 
+     
+
+}
+.w3{
+     background-color: #FFB411;
+    height: 2px;
+    width:200px;
+      border-radius: 0.5rem;
+    margin-top:37px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+
+.p11{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+   height:50px;
+    width: 500px;
+}
+.p11 p{
+    
+    font-size: 20px;
+    font-weight: 900;
+     border-bottom: 1px solid rgb(167, 165, 165);
+    padding-bottom: 20px;
+}
+.p22{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+     height:50px;
+    width: 500px;
+}
+.p22 p{
+    font-size: 20px;
+    font-weight: 900;
+    border-bottom: 1px solid rgb(167, 165, 165);
+    padding-bottom: 20px;
+    
+}
+.p33{
+      display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 500px;
+     height:50px;
+}
+.p33 p{
+    
+    font-size: 20px;
+    font-weight: 900;
+     border-bottom: 1px solid rgb(167, 165, 165);
+    padding-bottom: 20px;
+}
+
+.p44{
+   display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height:50px;
+    width: 500px;
+}
+.p44 p{
+   
+    font-size: 20px;
+    font-weight: 900;
+     border-bottom: 1px solid rgb(167, 165, 165);
+    padding-bottom: 20px;
+}
+.Z{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+
+}
+.zzz{
+    display: flex;
+    flex-direction: row;
+}
+.z1{
+     background-color: #FFB411;
+    height: 2px;
+    width:200px;
+    border-radius: 0.5rem;
+    margin-top:37px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-right: 20px;
+}
+.z2 h1{
+    color: #FFB411;
+    font-size: 30px;
+     font-family:"arial"; 
+}
+.z3{
+     background-color: #FFB411;
+    height: 2px;
+    width:200px;
+      border-radius: 0.5rem;
+    margin-top:37px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.o o1{
+   margin-bottom:0px;
+}
+.o1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center ;
+   
+}
+.o11{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    width: 550px;
+}
+.o11 p{
+     padding-top: 10px;
+    font-size: 20px;
+    font-weight: 900;
+     border-bottom: 1px solid rgb(167, 165, 165);
+    padding-bottom: 20px;
+}
+.o22{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 40px;
+    width: 550px;
+}
+.o22 p{
+     font-size: 20px;
+    font-weight: 900;
+    border-bottom: 1px solid rgb(167, 165, 165);
+    padding-bottom: 20px;
+}
+.o33{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    width: 550px;
+  
+}
+.o33 p{
+      
+    font-size: 20px;
+    font-weight: 900;
+    border-bottom: 1px solid rgb(167, 165, 165);
+    padding-bottom: 20px;
+}
+.o44{
+     display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    width: 550px;
+   
+}
+.o44 p{
+    font-size: 20px;
+    font-weight: 900;
+     border-bottom: 1px solid rgb(167, 165, 165);
+    padding-bottom: 20px;   
+
+}
+.o55{
+     display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    width: 550px;
+}
+.o55 p{
+    font-size: 20px;
+    font-weight: 900;
+     border-bottom: 1px solid rgb(167, 165, 165);
+    padding-bottom: 20px;
+}
+
+.L{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    background-color: rgba(150, 150, 150, 0.079);
+    gap: 100px;
+    margin-bottom: 50px;
+
+}
+.l1{
+    display: flex;
+    flex-direction: column;
+    /* height: 600px;
+    width: 600px; */
+   border-radius: 5px;
+    justify-content: space-around;
+    background-color: #d0cece;
+    margin-bottom:60px;
+    box-shadow: 0px 0px 5px black;
+    
+}
+.J{
+    background-image: url(https://images6.alphacoders.com/396/thumb-1920-396573.jpg);
+    height: 800px;
+   background-repeat: no-repeat;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+     font-family:"arial"; 
+}
+.j1{
+    font-size: 70px;
+    align-items: center;
+    text-align: center;
+    margin-top: 150px;
+    color:black;
+     font-weight: bold;
+     margin-bottom: 0px;
+     margin-top: 0px;
+
+
+    
+}
+.j2 button{
+    background-color: rgb(211, 17, 17);
+    color: white;
+    border-radius: 0.5rem;
+    width: 150px;
+    height: 70px;
+    font-size: 20px;
+    margin-bottom: 0px;
+    
+}
+.X{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center; 
+}
+
+
+.xy{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+
+    
+
+}
+.x1 {
+    margin-left: 60px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 50px;
+
+}
+.x2 p{
+    margin-left: 60px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.x2{
+     margin-left: 60px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+.g1 p{
+    font-size: 20px;
+      font-family:"arial"; 
+
+}
+.g2{
+    font-size: 17px;
+      font-family:"arial"; 
+      margin-top: 0px;
+     
+}
+.g1 h2{
+    font-size: 35px;
+    margin-top: 40px;
+}
+.G{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 100px;
+   
+
+}
+.g3{
+    
+}
+.V{
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: start;
+margin-left: 20px;
+ font-family:"arial"; 
+
+}
+.V h2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top:50px;
+
+}
+.V p{
+    font-size: 20px;
+}
+.v1 button{
+    background-color:rgb(119, 30, 30);
+    color: white;
+    border-radius: 0.5rem;
+    width: 150px;
+    height: 55px;
+    font-size: 20px;
+    margin-bottom: 150px;
+    margin-left: 100px;
+    
+}
+.M{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 0px;
+}
+.m1 img{
+    border-radius: 0.5rem;
+}
+.M1{
+    display: flex;
+    flex-direction: column;
+    height: 0px;
+}
+.m2{
+    position: relative;
+    bottom: 150px;
+    right: 100px;
+}
+.m2 img{
+    border-radius:8px;
+}
+
+
+.k{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.H{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 40px;
+  
+}
+
+.service h1{
+    color: #FFB411;
+    text-align: center;
+     margin-top: 0px;
+      margin-bottom: 0px;
+       font-family:"arial";
+        
+}
+.service h2{
+    color: bl;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+     font-family:"arial";
+}
+.order{
+    text-align: center;
+    height: 220px;
+    width: 300px;
+    
+}
+.order h1{
+    font-weight: bold;
+    font-size: 25px;
+   margin-top: 0px;
+   margin-bottom: 0px;
+    font-family:"arial";
+    color: black;
+    
+}
+.order h2{
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+     font-family:"arial";
+     color: grey;
+   
+}
+.shipping {
+     text-align: center;
+    height: 220px;
+    width: 300px;
+}
+.shipping h1{
+    font-weight: bold;
+    font-size: 25px;
+   margin-top: 0px;
+   margin-bottom: 0px;
+    font-family:"arial";
+    color: black;
+}
+.shipping h2{
+    font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+     font-family:"arial";
+       color: grey;
+}
+.Delivered{
+     text-align: center;
+    height: 220px;
+    width: 300px;
+}
+.Delivered h1{
+    font-weight: bold;
+    font-size: 25px;
+   margin-top: 0px;
+   margin-bottom: 0px;
+    font-family:"arial";
+    color: black;
+}
+.Delivered h2{
+   font-size: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+      color: grey;
+     font-family:"arial";
+}
+.div1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+   
+}
+.div1 h1{
+    color: #FFB411;
+     font-family:"arial";
+}
+.div1 h2{
+    font-size: 23px;
+      font-family:"arial";
+      margin-bottom: 70px;
+    
+}
+.div2 button{
+    height: 50px;
+    width: 120px;
+    text-align:center;
+   align-items: center;
+    display: flex;
+    color: white;
+      background-color: #FFB411;
+      border-radius: 10px;
+       font-family:"arial";
+       border-color: #FFB411;
+       font-size: 20px;
+}
+.div2{
+    text-align: end;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+   
+   
+}
+.div11{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    gap: 100px;
+
+
+}
+.box{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+ font-family:"arial";
+}
+.box1{
+    height: 250px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     font-family:"arial";
+    align-items: center;
+   
+}
+.box1 h1{
+   font-size: 25px;
+     font-family:"arial";
+     color: black;
+     padding-bottom: 20px;
+}
+.box1 h2{
+   font-size: 15px;
+}
+.box11{
+    background-color:white;
+    font-size: 25px;
+    margin-right: 20px;
+    margin-top: 0px;
+}
+.box22{
+     background-color:white;
+    font-size: 25px;
+}
+.box33{
+     background-color: white;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 70px;
+  
+}
+
+.box2{
+    height: 250px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+.box2 h1{
+    font-size: 25px;
+    color: black;
+    padding-bottom: 20px;
+
+   
+}
+
+.box2 h2{
+   
+     font-family:"arial";
+    font-size: 15px;
+    margin-bottom: 10px;
+  
+}
+.box3{
+    height: 250px;
+    width: 250px;
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box3 h2 ,h2,h2,h2{
+
+    font-size: 15px;
+     font-family:"arial";
+     margin-bottom: 10px;
+}
+.box3 h1{
+    color: black;
+    padding-bottom: 20px;
+    font-size: 25px;
+
+}
+
+
+.box4{
+
+     height: 250px;
+    width: 280px;
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.box4 h1{
+    color: black;
+    font-size: 25px;
+    padding-bottom: 20px;
+
+}
+.box4 h2,h2,h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+     font-family:"arial";
+      font-size: 15px;
+
+    
+}
+.box4 h3{
+    margin-right: 70px;
+}
+
+.img1 img:hover{
+    scale: 1.2;
+    border: black;
+}
+.img2 img:hover{
+    scale: 1.2;
+    border: black;
+}
+.img3 img:hover{
+    scale: 1.2;
+    border: black;
+}
+.j2 button:hover {
+     scale: 1.2;
+    border: white;
+}
