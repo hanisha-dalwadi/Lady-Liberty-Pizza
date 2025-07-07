@@ -1,11 +1,12 @@
 .logo h1{
     color: #FFB411;
     font-size:30px;
-    font-family:"arial";   
+       
 }
 
 body{
     margin-top: 0px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 .nav {
@@ -13,7 +14,7 @@ body{
     flex-direction: row;
     /* justify-content: space-between; */
     padding: 0px 0px 0px 0px;
-    font-family:"arial";
+    
     position: fixed;
     background-color: white;
     z-index: 1;
@@ -60,7 +61,7 @@ body{
     font-size: 66px;
     font-weight: bold;
     margin-bottom: 20px;
-    font-family:"arial";
+    
    
 
 }
@@ -72,7 +73,7 @@ body{
     font-style: normal;
     margin-bottom:0px;
    margin-top: 0px;
-     font-family:"arial";
+     
      padding-top: 0px;
 
 
@@ -87,7 +88,7 @@ body{
     border-radius: 0.5rem;
     color: white;
     margin-top: 20px;
-    font-family:"arial";
+    
     font-size: 15px;
     border:  #FFB411 ;
 
@@ -110,7 +111,7 @@ body{
     flex-direction: column;
     justify-content: space-around;
     width: 700px;
-    font-family:"arial";
+    
     margin-bottom: 100px;
 
 }
@@ -121,7 +122,7 @@ body{
     font-size: 20px;
     margin-top:0px;
     margin-bottom: 0px;
-    font-family:"arial";
+    
 
 }
 
@@ -131,7 +132,7 @@ body{
    font-size: 35px;
  margin-bottom: 0px;
   
-    font-family:"arial";
+    
     margin-top: 20px;
 }
 
@@ -142,7 +143,7 @@ body{
     margin-top: 20px;
    margin-bottom: 0px;
    
-    font-family:"arial";
+    
 
 
 }
@@ -180,7 +181,7 @@ body{
     justify-content: center;
     margin-left: 70px;
     margin-bottom: 30px;
-     font-family:"arial"; 
+      
      font-weight: bold;
 
 
@@ -191,7 +192,7 @@ body{
     justify-content: center;
     align-items: start;
     font-size: 15px;
-      font-family:"arial"; 
+       
       
 
 }
@@ -213,11 +214,11 @@ body{
     font-size: 20px;
     margin-left: 80px;
     margin-right:60px;
-     font-family:"arial"; 
+      
 }
 f2 h2{
     font-size: 20px;
-     font-family:"arial"; 
+      
 
 }
 
@@ -230,7 +231,7 @@ f2 h2{
     justify-content: center;
    margin-top: 0px;
    margin-bottom: 0px;
-   font-family:"arial";
+   
    
 }
 
@@ -241,7 +242,7 @@ f2 h2{
     justify-content: center;
     margin-top: 0px;
     margin-bottom: 0px;
-    font-family:"arial";
+    
 
 }
 
@@ -420,14 +421,14 @@ margin: 2px 0px 2px 0px;
 header h1{
     font-size: 69px;
     color: #FFB411;
-    font-family:"arial"; 
+     
     margin-left: 200px;
    
 
 }
 .r111 h1{
     font-size: 70px;
-     font-family:"arial"; 
+      
      color: rgb(248, 94, 38);
     margin-top: 0px;
     border-bottom:1px solid rgb(167, 165, 165);
@@ -472,7 +473,7 @@ height: 2px;
 .w2 h1{
     color: #FFB411;
     font-size: 30px;
-     font-family:"arial"; 
+      
      
 
 }
@@ -572,7 +573,7 @@ justify-content: center;
 .z2 h1{
     color: #FFB411;
     font-size: 30px;
-     font-family:"arial"; 
+      
 }
 .z3{
      background-color: #FFB411;
@@ -695,7 +696,7 @@ justify-content: center;
    display: flex;
    align-items: center;
    justify-content: center;
-     font-family:"arial"; 
+      
 }
 .j1{
     font-size: 70px;
@@ -759,12 +760,12 @@ justify-content: center;
 }
 .g1 p{
     font-size: 20px;
-      font-family:"arial"; 
+       
 
 }
 .g2{
     font-size: 17px;
-      font-family:"arial"; 
+       
       margin-top: 0px;
      
 }
@@ -788,7 +789,7 @@ flex-direction: column;
 justify-content: space-around;
 align-items: start;
 margin-left: 20px;
- font-family:"arial"; 
+  
 
 }
 .V h2{
@@ -858,7 +859,7 @@ margin-left: 20px;
     text-align: center;
      margin-top: 0px;
       margin-bottom: 0px;
-       font-family:"arial";
+       
         
 }
 .service h2{
@@ -866,7 +867,7 @@ margin-left: 20px;
     text-align: center;
     margin-top: 0px;
     margin-bottom: 0px;
-     font-family:"arial";
+     
 }
 .order{
     text-align: center;
@@ -879,16 +880,18 @@ margin-left: 20px;
     font-size: 25px;
    margin-top: 0px;
    margin-bottom: 0px;
-    font-family:"arial";
+    
     color: black;
+   
     
 }
 .order h2{
     font-size: 15px;
     margin-top: 0px;
     margin-bottom: 0px;
-     font-family:"arial";
+     
      color: grey;
+      padding-top: 15px;
    
 }
 .shipping {
@@ -901,15 +904,16 @@ margin-left: 20px;
     font-size: 25px;
    margin-top: 0px;
    margin-bottom: 0px;
-    font-family:"arial";
+    
     color: black;
 }
 .shipping h2{
     font-size: 15px;
     margin-top: 0px;
     margin-bottom: 0px;
-     font-family:"arial";
+     
        color: grey;
+        padding-top: 15px;
 }
 .Delivered{
      text-align: center;
@@ -921,7 +925,7 @@ margin-left: 20px;
     font-size: 25px;
    margin-top: 0px;
    margin-bottom: 0px;
-    font-family:"arial";
+    
     color: black;
 }
 .Delivered h2{
@@ -929,7 +933,8 @@ margin-left: 20px;
     margin-top: 0px;
     margin-bottom: 0px;
       color: grey;
-     font-family:"arial";
+     
+      padding-top: 15px;
 }
 .div1{
     display: flex;
@@ -940,11 +945,11 @@ margin-left: 20px;
 }
 .div1 h1{
     color: #FFB411;
-     font-family:"arial";
+     
 }
 .div1 h2{
     font-size: 23px;
-      font-family:"arial";
+      
       margin-bottom: 70px;
     
 }
@@ -957,7 +962,7 @@ margin-left: 20px;
     color: white;
       background-color: #FFB411;
       border-radius: 10px;
-       font-family:"arial";
+       
        border-color: #FFB411;
        font-size: 20px;
 }
@@ -983,7 +988,7 @@ margin-left: 20px;
 display: flex;
 flex-direction: row;
 justify-content: space-around;
- font-family:"arial";
+ 
 }
 .box1{
     height: 250px;
@@ -991,13 +996,13 @@ justify-content: space-around;
     display: flex;
     flex-direction: column;
     justify-content: center;
-     font-family:"arial";
+     
     align-items: center;
    
 }
 .box1 h1{
    font-size: 25px;
-     font-family:"arial";
+     
      color: black;
      padding-bottom: 20px;
 }
@@ -1048,7 +1053,7 @@ justify-content: space-around;
 
 .box2 h2{
    
-     font-family:"arial";
+     
     font-size: 15px;
     margin-bottom: 10px;
   
@@ -1064,7 +1069,7 @@ justify-content: space-around;
 .box3 h2 ,h2,h2,h2{
 
     font-size: 15px;
-     font-family:"arial";
+     
      margin-bottom: 10px;
 }
 .box3 h1{
@@ -1094,7 +1099,7 @@ justify-content: space-around;
 .box4 h2,h2,h2{
     margin-top: 0px;
     margin-bottom: 0px;
-     font-family:"arial";
+     
       font-size: 15px;
 
     
@@ -1118,4 +1123,76 @@ justify-content: space-around;
 .j2 button:hover {
      scale: 1.2;
     border: white;
+}
+.a{
+    color: black;
+    text-decoration: none;
+}
+.a:hover{
+    color: #FFB411;
+}
+.middle2 img:hover{
+    scale: 1.2;
+    border: black;
+}
+.img img:hover{
+    scale: 1.2;
+    border: black;
+}
+.n img:hover{
+    scale: 1.1;
+    border: black;
+}
+.X img:hover{
+    scale: 1.2;
+    border: black;
+}
+.g3 img:hover{
+    scale: 1.2;
+    border: black;
+}
+.m1 img:hover{
+    scale: 1.2;
+    border: black;
+}
+.m2 img:hover{
+    scale: 1.2;
+    border: black;
+}
+.order img:hover{
+    scale: 1.2;
+    border: black;
+}
+.shipping img:hover{
+    scale: 1.2;
+    border: black;
+}
+.Delivered img:hover{
+    scale: 1.2;
+    border: black;
+}
+.button button:hover{
+    scale: 1.2;
+    border: black;
+   
+}
+.a4 button:hover{
+    scale: 1.2;
+    border: black;
+}
+.v1 button:hover{
+    scale: 1.2;
+    border: black;
+}
+.div2 button:hover{
+    scale: 1.2;
+    border: black;
+}
+.logo h1:hover{
+    scale: 1.2;
+    color: black;
+}
+.h1 h1:hover{
+    scale: 1.2;
+    color: black;
 }
